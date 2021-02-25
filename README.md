@@ -13,11 +13,14 @@
 
 <p align="center">
   <a href="https://www.instagram.com/olabamisaiye/">Instagram</a>
-  
+</p>
+<p align="center">  
   <a href="https://checkout.olabamisaiye.me/">My Personal Website</a>
-  
+</p>
+<p align="center">
   <a href="#">Eventually My Personal Blog...Empty link for now</a>
-  
+</p>
+<p align="center">
   <a href="https://swapp.solutions">My Business Website (in between a redesign right now)</a>
 </p>
 

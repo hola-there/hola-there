@@ -9,9 +9,9 @@
 </a>
 </p>
 
-<span align="center">
-### 🤝🏻 &nbsp;Connect with Me
-</span>
+<h2 align="center">
+🤝🏻 &nbsp;Connect with Me
+</h2>
   
 <p align="center">
   <a href="https://www.instagram.com/olabamisaiye/">Instagram</a>
